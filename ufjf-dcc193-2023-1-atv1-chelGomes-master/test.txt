@@ -1,0 +1,3 @@
+meu lindo arquivo: um ensaio vazio da alma
+
+1 - adiciona controle de versão;
